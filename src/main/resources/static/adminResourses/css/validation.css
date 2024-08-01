@@ -1,0 +1,13 @@
+.error{
+	color:red;
+	width:100%;
+	margin-top:5px;
+	padding-left:100px;
+	float:left;
+}
+
+.contetCenter{
+	display:flex;
+	justify-content: center;
+	align-items: center;
+}

@@ -1,0 +1,39 @@
+.error {
+	color: red;
+	width: 100%;
+	margin-top: 5px;
+	padding-left: 100px;
+	float: left;
+}
+
+.contetCenter {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+
+.search-container {
+	position: relative;
+	width: 94%;
+	
+	/* padding: 27px 12px; */
+	margin-left: 45px;
+}
+
+.search-input{
+	padding: 24px;
+	margin:23px;
+	
+}
+
+.search-result {
+	position: absolute;
+	background: white;
+	padding:10px;
+	border:1px solid gray;
+	width: 100%;
+	display: none;
+	
+	
+}
